@@ -1,2 +1,7 @@
 
+#repo
+.ipynb_checkpoints/
+.idea/
 
+#file
+*.png
